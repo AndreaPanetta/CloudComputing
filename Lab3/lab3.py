@@ -1,6 +1,6 @@
 #Program to detect if a word is a palindrome or not
 
-pal_string = raw_input("Enter a string: ")
+pal_string = raw_input("Enter a sequence: ")
 
 def reverseString(aString):
   return aString[::-1]
