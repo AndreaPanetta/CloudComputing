@@ -2,5 +2,8 @@
 
 pal_string = raw_input("Enter a string: ")
 
+def reverseString(aString):
+  return aString[::-1]
+
 
 
